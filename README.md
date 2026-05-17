@@ -42,6 +42,7 @@
 - Learn scalable software architecture
 - Contribute to open source
 - Prepare for ICPC
+- Learn AI-ML
 
 ---
 
