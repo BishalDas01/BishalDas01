@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Bishal Chandra Das]</h1>
+<h1 align="center">Hi 👋, I'm Bishal Chandra Das</h1>
 <h3 align="center">CSE Student | Problem Solver | Future Software Developer</h3>
 
 ---
