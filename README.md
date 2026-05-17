@@ -49,7 +49,6 @@
 
 - LinkedIn: https://www.linkedin.com/in/bishal-chandra-das-b59925384
 - Codeforces: https://codeforces.com/profile/bishaldas2k5
-- Facebook: your-link
 
 ---
 
